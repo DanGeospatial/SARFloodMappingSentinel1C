@@ -1,6 +1,9 @@
-//SOURCES:
-//Much of the code for this script has been taken from the Google Earth Engine Guides
-//This code was then modified to perform the water mapping using Sentinel 1-C
+/* Copyright 2022 Daniel Nelson 
+
+Part of the code has been adapted from the Google Earth Engine sample guides
+Code used to perform flood mapping from Sentinel 1-C data
+
+*/
 
 //_____________________________________________________________________________
 //INPUT AND PROCESS MULTISPECTRAL DATA
