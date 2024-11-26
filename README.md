@@ -9,6 +9,5 @@ The easiest method to calculate flooded area is by merging classes that represen
 The original usage for this script was a project to track the flooding created by the reservoir filling of the Grand Renaissance Dam in Ethiopia. 
 With the correct edits this program can be adapted to other projects.
 
-TODO
-- Expand settings and clean up clustering output
-- Make program more automated 
+This project has been discontinued and has been replaced by work in GEE from another manuscript.
+When published that project will be linked here.
